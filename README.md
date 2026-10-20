@@ -11,8 +11,15 @@ I'm looking for working student roles in backend, data engineering and AI engine
 - **Backend:** TypeScript, Node.js, NestJS, Express, REST APIs
 - **Frontend:** React, Next.js
 - **Data:** SQL, PostgreSQL, MySQL, MongoDB, Prisma
+- **Data engineering:** dbt, Airflow, Databricks, PySpark, DuckDB, Streamlit
 - **ML:** Python, PyTorch, scikit-learn, Optuna, pandas
-- **Tools:** Git, Docker, Linux
+- **Tools:** Git, Docker, Kubernetes, GitHub Actions, Linux
+
+### Projects
+
+- **[German Train Delays](https://github.com/OmidRasouli22/german-train-delays):** I saved Deutsche Bahn live data every two minutes for a week at eight stations and found out how late trains really are. Python, dbt, DuckDB, Airflow, Streamlit.
+- **[Fuel Price Pipeline](https://github.com/OmidRasouli22/fuel-price-pipeline):** hourly and historical fuel prices around Freiburg on Databricks, with Auto Loader and dbt.
+- **[Ticketing Microservices](https://github.com/OmidRasouli22/ticketing_microservices):** a ticket resale app made of five services that talk through events. TypeScript, MongoDB, NATS, Kubernetes.
 
 ### University projects
 
@@ -22,7 +29,6 @@ I'm looking for working student roles in backend, data engineering and AI engine
 ### Currently working on
 
 - **German Job Market Radar:** a data pipeline on job posts from the Bundesagentur für Arbeit, built on Databricks
-- **DB Punctuality:** a pipeline that tracks Deutsche Bahn train delays
 
 ### Contact
 
