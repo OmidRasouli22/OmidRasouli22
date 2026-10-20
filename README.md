@@ -1,46 +1,32 @@
-const OmidRasouli = () => {     
-    me: "Omid Rasouli",   
-    role: "M.Sc. Computer Science Student @ University of Freiburg 🇩🇪",
-    focus: "Artificial Intelligence | Automated Machine Learning | Deep Learning",
-    
-    aboutMe: "JavaScript Full-Stack Developer 😎 | AI enthusiast focused on building intelligent and automated ML systems",
+## Hi, I'm Omid
 
-    skills: ["JavaScript", "Python (learning for AI)"],
+I'm a software engineer and a Master's student in Computer Science (AI) at the University of Freiburg, Germany.
 
-    hobbies: ["Coding", "Learning AI", "Reading"],
+I worked as a developer from 2022 to 2025, mostly on backend and full-stack web apps with TypeScript, Node.js, NestJS, React/Next.js and SQL. Now I work more with Python, machine learning and data.
 
-    myStack: {             
-        backEnd: {             
-          frameworks: ["Express.js", "Nest.js"],                   
-          realTimeTools: ["socket.io"],
-          dataBases: ["MongoDB", "MySQL", "SQL Server"],
-          architectures: ["MVC", "SOLID"],
-          API: ["Postman", "Swagger"],
-          cleanCode: "strict",
-        },         
+I'm looking for working student roles in backend, data engineering and AI engineering, in Freiburg, Stuttgart or remote.
 
-        frontEnd: {             
-          web: ["React.js"],         
-        },
+### What I work with
 
-        AI_Focus: {
-          fields: ["Automated Machine Learning", "Reinforcement Learning", "Deep Learning"],
-          goal: "Building systems that learn and optimize themselves"
-        }        
-   },    
+- **Backend:** TypeScript, Node.js, NestJS, Express, REST APIs
+- **Frontend:** React, Next.js
+- **Data:** SQL, PostgreSQL, MySQL, MongoDB, Prisma
+- **ML:** Python, PyTorch, scikit-learn, Optuna, pandas
+- **Tools:** Git, Docker, Linux
 
-   currentFocus: "AI systems, AutoML pipelines, and reinforcement learning research",
+### University projects
 
-   university: "University of Freiburg 🇩🇪",
+- **Curriculum pretraining for nanoTabPFN** (Deep Learning Lab): I trained a small transformer for tabular data with an easy-to-hard data curriculum. It reached the same results with 5.3x fewer FLOPs and won on 14 of 16 datasets.
+- **Auto-TabPFN** (AutoML Lab): a team project on AutoML for tabular regression. I worked on the baseline, the Optuna search and the data analysis.
 
-   quote: "If you can dream it, you can automate it.",
+### Currently working on
 
-   youAddSth: ":added",
-};
+- **German Job Market Radar:** a data pipeline on job posts from the Bundesagentur für Arbeit, built on Databricks
+- **DB Punctuality:** a pipeline that tracks Deutsche Bahn train delays
 
-OmidRasouli();
+### Contact
 
-console.log("Let's Start 💻🧠🚀");
+- Email: omidrasouli1998@gmail.com
+- LinkedIn: [omid-rasouli1998](https://linkedin.com/in/omid-rasouli1998)
 
-// 📫 How to reach me:
-// Email: omidrasouli1998@gmail.com
+Languages: English (C1), German (learning, B1 soon), Persian (native)
